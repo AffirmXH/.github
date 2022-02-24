@@ -2,7 +2,7 @@
 name: "\u2728 New Feature"
 about: Suggest an idea for this project
 title: ''
-labels: new feature
+labels: enhancement
 assignees: ''
 
 ---
