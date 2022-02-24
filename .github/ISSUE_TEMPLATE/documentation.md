@@ -1,5 +1,5 @@
 ---
-name: ':page_facing_up: Documentation'
+name: '\U0001F4C4 Documentation'
 about: Updating documentation (e.g. README, Wiki, Guides, etc.)
 title: ':page_facing_up: '
 labels: documentation
