@@ -1,7 +1,7 @@
 ---
-name: :sparkles: New Feature
-about: Suggest an idea for this project
-title: ':sparkles: '
+name: :recycle: Refactor
+about: Something that needs improving while not changing functionality.
+title: ':recycle: '
 labels: new feature
 assignees: ''
 
