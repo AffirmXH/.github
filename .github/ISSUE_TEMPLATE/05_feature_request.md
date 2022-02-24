@@ -1,18 +1,23 @@
 ---
 name: "\u2728 New Feature"
 about: Suggest an idea for this project
-title: ':sparkles: '
+title: ''
 labels: new feature
 assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+<!--- include feature statement in the title above  -->
+##Target Customer
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+##Need/ Opportunity
+
+##Key Benefit
 
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+##Potential solution
+<!--- A clear and concise description of the potential solution. -->
+
+
+##Additional context
+<!--- Add any other context or screenshots about the feature request here. -->

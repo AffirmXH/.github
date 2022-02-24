@@ -1,15 +1,13 @@
 ---
 name: "\U0001F3ED Dev Ops"
 about: Updating the CI/CD pipeline
-title: ':factory: '
+title: ''
 labels: dev ops
 assignees: ''
 
 ---
 
-**Describe what needs to be done**
-A clear and concise description of what the bug is.
+##What needs done
+<!--- A clear and concise description of what the devops team needs to do. -->
 
 
-**Additional context**
-Add any other context about the problem here.
