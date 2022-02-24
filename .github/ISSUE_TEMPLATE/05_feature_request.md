@@ -8,16 +8,16 @@ assignees: ''
 ---
 
 <!--- include feature statement in the title above  -->
-##Target Customer
+## Target Customer
 
-##Need/ Opportunity
+## Need/ Opportunity
 
-##Key Benefit
+## Key Benefit
 
 
-##Potential solution
+## Potential solution
 <!--- A clear and concise description of the potential solution. -->
 
 
-##Additional context
+## Additional context
 <!--- Add any other context or screenshots about the feature request here. -->

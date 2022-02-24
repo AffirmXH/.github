@@ -7,14 +7,14 @@ assignees: ''
 
 ---
 
-##Product to document
+## Product to document
 <!--- Web app, Flutter, etc -->
 
-##Functionality or area to document
+## Functionality or area to document
 <!--- Is this a how to do something, technical notes, etc. -->
 
-##Who is the documentation for
+## Who is the documentation for
 <!--- Is this for a developer who knows code or an end user? -->
 
-##Additional context
+## Additional context
 <!--- Add any other context about the problem here. -->
