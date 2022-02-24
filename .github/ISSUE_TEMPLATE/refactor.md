@@ -1,5 +1,5 @@
 ---
-name: :recycle: Refactor
+name: ':recycle: Refactor'
 about: Something that needs improving while not changing functionality.
 title: ':recycle: '
 labels: new feature

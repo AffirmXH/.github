@@ -1,5 +1,5 @@
 ---
-name: :factory: Dev Ops
+name: ':factory: Dev Ops'
 about: Updating the CI/CD pipeline
 title: ':factory: '
 labels: dev ops
