@@ -1,5 +1,5 @@
 ---
-name: '\u267C Refactor'
+name: "\u267B Refactor"
 about: Something that needs improving while not changing functionality.
 title: ':recycle: '
 labels: new feature
