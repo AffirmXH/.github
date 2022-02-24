@@ -1,5 +1,5 @@
 ---
-name: "\uD83C\uDFED Dev Ops"
+name: "\U0001F3ED Dev Ops"
 about: Updating the CI/CD pipeline
 title: ':factory: '
 labels: dev ops
